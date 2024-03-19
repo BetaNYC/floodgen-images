@@ -1,6 +1,3 @@
-# floodgen-images
-
-```markdown
 # FloodGen-Images Repository
 
 Welcome to the FloodGen-Images repository! This repository hosts a curated collection of images used by the FloodGen website, an advocacy tool that leverages generative artificial intelligence (GenAI) to create photorealistic images of predicted flooding in New York City. 
