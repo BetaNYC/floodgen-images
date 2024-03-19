@@ -38,4 +38,3 @@ These images can be used for various purposes, including but not limited to, edu
 For detailed descriptions of each site location, including the specific challenges and considerations for flood risk, please refer to the following Google Sheet: [Final Sites with Descriptions]([<Insert-Link-Here>](https://docs.google.com/spreadsheets/d/1_qtkNYAhRO9s-IAuBHTS0HcT1lv6RW7B4cnekR3OfkI/edit#gid=112398814)).
 
 Please ensure that you use these images responsibly and in accordance with the aims of the FloodGen project, which seeks to enhance community engagement and understanding regarding flood risks and resilience planning.
-```
